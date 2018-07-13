@@ -24,7 +24,7 @@ To calculate an complex expression
 
 ## Author
 
-* **Yuxiang Ma**
+* **Mark Ma**
 
 ## Acknowledgments
 
