@@ -29,5 +29,5 @@ To calculate an complex expression
 ## Acknowledgments
 
 * Prof. Frank P Ferrie, 4-function calculator applet 
-* Prof. Don Davis, ac circuit/complex number quiz 
+* Prof. Donald Peter Davis, ac circuit/complex number quiz 
 * LittleBox Inc., 剧毒支持
