@@ -7,8 +7,11 @@ and degree/radian, polar/cartesian notation
 
 ## Example
 To calculate an complex expression
-![input example](eCalc/descriptive_images/ex_input.png?raw=true)
+
+![input example](https://github.com/yma67/eCalc/blob/master/descriptive_images/ex_input.png)
+
 ![output polar](eCalc/descriptive_images/result_polar.png?raw=true)
+
 ![output cartesian](eCalc/descriptive_images/result_cart.png?raw=true)
 
 ## Built With
