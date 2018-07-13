@@ -5,6 +5,8 @@ and degree/radian, polar/cartesian notation
 
 ![Main GUI and Functions](https://github.com/yma67/eCalc/blob/master/descriptive_images/main_gui.png "Main GUI and Functions")
 
+My first C++/QT practice. 
+
 ## Example
 To calculate an complex expression
 
@@ -20,7 +22,7 @@ To calculate an complex expression
 * [QT] - Software Framework, controller and visual
 * [McGill ECSE 210] - Project Idea
 
-## Authors
+## Author
 
 * **Yuxiang Ma**
 
